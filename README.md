@@ -1,1 +1,3 @@
-# Rock-Papier-Scissors
+## Rock-Papier-Scissors
+
+*🫐 Very easy code to learn python*
